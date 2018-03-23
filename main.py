@@ -1,6 +1,6 @@
 '''
 Date: 29 October 2017
-@authors: Apurba Sengupta, Dhruv Desai
+@authors: Apurba Sengupta
 
 '''
 
